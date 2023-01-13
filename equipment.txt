@@ -1,0 +1,5 @@
+1  Treadmill
+2  Rowing machine
+3  Ab Rolller
+4  Rollar
+5  Dumbell
